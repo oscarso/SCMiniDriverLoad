@@ -1,0 +1,3 @@
+LIBRARY	"SCMiniDriverHook"
+EXPORTS
+	CardAcquireContext
